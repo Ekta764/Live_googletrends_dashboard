@@ -1,0 +1,6 @@
+streamlit
+pytrends
+pandas
+plotly
+requests
+Pillow==10.2.0
